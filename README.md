@@ -1,4 +1,4 @@
-# Vehicles - Integrated Practical Work
+# Vehicles Dealership 
 
 This project implements a web application for viewing cars and brands, allowing users to log in with existing accounts, view brands, and perform CRUD operations on vehicles.
 
